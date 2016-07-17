@@ -1,0 +1,6 @@
+// test file 
+<?php
+
+phpinfo();
+
+?>
